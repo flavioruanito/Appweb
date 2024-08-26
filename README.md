@@ -8,7 +8,7 @@ Um container balanceado,cpu e memória
 
 Conexão da porta 80 para local 8080
 
-Um aquivo deploy para atualizar e gerenciar os PODs
+Um arquivo deploy para atualizar e gerenciar os PODs
 
 Um arquivo services para manter a comunicação "protocolo TCP", utilizando o LoadBalancer
 
