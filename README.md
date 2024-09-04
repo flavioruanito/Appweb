@@ -4,7 +4,7 @@ Usando:
 
 Três réplicas
 
-Um container balanceado,cpu e memória
+Um container balanceado,cpu e memória usando o HPA 
 
 Conexão da porta 80 para local 8080
 
@@ -25,5 +25,8 @@ Sistema Operacional Ubuntu 22.04.4 LTS
 Ferramenta - kind version 0.22.0
 Kubernetes Client Version: v1.29.2
 Docker version 27.1.1, build 6312585
+helm version helm version.BuildInfo{Version:"v3.14.2
+
+
 
 
